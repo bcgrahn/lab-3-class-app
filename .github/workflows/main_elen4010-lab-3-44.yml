@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ELEN4010-Lab-3-44'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_501DEC34FB8948429D7561294B48CBE4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D1532A7C4C544D1B82AD299478D3E5C7 }}
           package: .
